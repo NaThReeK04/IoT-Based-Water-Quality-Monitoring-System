@@ -59,7 +59,7 @@ Upload the code and configure **ThingSpeak** to receive real-time data.
 - Use **machine learning** to predict water contamination trends
 
 ## Author
-Developed by **[Your Name]**
+Developed by **Keerthan Ghodiwal**
 
 ## License
 This project is open-source and available under the **MIT License**.
