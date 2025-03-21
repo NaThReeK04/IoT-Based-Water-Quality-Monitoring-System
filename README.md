@@ -22,6 +22,8 @@ This project implements an **IoT-Based Drinking Water Quality Monitoring System*
 - **TDS Sensor** – Measures Total Dissolved Solids (TDS) & Electrical Conductivity
 - **DS18B20 Waterproof Temperature Sensor** – Measures water temperature
 - **0.96” I2C OLED Display** – Displays real-time sensor data
+- ![Image](https://github.com/user-attachments/assets/752b08ed-8197-4008-9bb3-516507a2c0ce)
+- ![Image](https://github.com/user-attachments/assets/a5b48809-befe-4c1e-8d46-df95b64f0ed5)
 
 ## How It Works
 1. The **TDS Sensor** measures the **Electrical Conductivity (EC)** of water.
@@ -29,6 +31,7 @@ This project implements an **IoT-Based Drinking Water Quality Monitoring System*
 3. The **ESP32** processes the data and displays it on the **OLED display**.
 4. The data is sent to **ThingSpeak**, where it is stored and visualized graphically.
 5. Users can access the data from anywhere using the **ThingSpeak dashboard**.
+6. ![Image](https://github.com/user-attachments/assets/0f7fa16d-47d4-4d98-9c28-4bd9fda64cbd)
 
 ## Setup & Installation
 ### Hardware Connections:
